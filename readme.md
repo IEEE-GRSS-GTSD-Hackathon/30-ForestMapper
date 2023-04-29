@@ -1,3 +1,6 @@
+**Assignment topic:**
+"Spatiotemporal urban sprawl and land resource monitoring using remote sensing and cloud computing"
+
 **Objective of Study:**
 -To learn about Big Geo-data techniques and apply appropriate tool for analysis of urban growth/sprawl in capital city Ranchi.
 -To compare and use suitable machine learning approaches for supervised classification of built-up and non-built-up classes for monitoring changes in urban growth.
